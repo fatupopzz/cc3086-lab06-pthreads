@@ -78,7 +78,7 @@ make asan
 
 ## Video Demo
 
-[Enlace al video explicativo de 6 minutos]
+https://youtu.be/7Atx4ZyAKao
 
 ## Licencia
 
