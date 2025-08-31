@@ -1,0 +1,31 @@
+# Ejecutables compilados
+bin/
+*.o
+*.exe
+
+# Archivos de log
+*.log
+pipeline.log
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de debugging
+core.*
+*.dSYM/
+
+# Datos generados
+data/*.csv
+data/*.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*~
+*.bak
+*.tmp
